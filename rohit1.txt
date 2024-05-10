@@ -1,0 +1,14 @@
+Class B {
+
+int a=10 
+int b=20
+
+if (a>b)
+System.out.println("Not Eligible for vote)
+
+else {
+System.out.println("Eligible for Vote")
+
+}
+}
+
